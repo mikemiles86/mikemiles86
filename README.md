@@ -1,10 +1,15 @@
+# Hi, I’m Mike.
 
-### Hi, I'm Mike.
+I’m a technical leader and longtime open-source practitioner with more than 20 years of experience in web development.
 
-I am a technical leader and developer working in the web development space since 2003.
+As the Director of Web Development at [MIT Sloan](https://mitsloan.mit.edu), I lead the development, maintenance, and growth of the school’s public digital properties, along with the team that supports them.
 
-I am currently the Director of Web Development for [MIT Sloan](https://mitsloan.mit.edu) where I lead the development, maintenance and growth of the public digital properties for the school, as well as, the development team that supports them.
+My interests include modern web development, Drupal, technical leadership, testing, delivery quality, and practical AI adoption. I care a lot about helping teams build better platforms, stronger workflows, and more sustainable ways of working.
 
-I am a public speaker and present at technical conferences around the world. You can view recordings of my past talks and listing of my upcoming presentations on my [Talks](https://talks.mike-miles.com) page.
+I’m also an active public speaker. You can find recordings of past talks and upcoming presentations on my [Talks](https://talks.mike-miles.com) page.
 
-From 2016 to 2020 I hosted the podcast [Developing Up](https://www.developingup.com); a podcast that was focused on the non-technical side of being a developer.
+From 2016 to 2020, I hosted the podcast [Developing Up](https://www.developingup.com), focused on the non-technical side of being a developer and building a strong career in tech.
+
+- [Website](https://www.mike-miles.com)
+- [Talks](https://talks.mike-miles.com)
+- [LinkedIn](https://www.linkedin.com/in/mikemiles86)
